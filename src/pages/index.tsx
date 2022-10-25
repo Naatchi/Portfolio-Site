@@ -8,10 +8,6 @@ export default function Home() {
             </head>
             <div id={'site'} className={'bg-gray-900 text-white h-screen'}>
                 <section id={'navigation-bar'}>
-                    {/*
-                    goals: responsive navigation bar that looks modern utilizing tailwindcss?
-                        my brain is rotting away :)
-                     */}
                     <span
                         className={
                             'flex max-w-6xl mx-auto sm:px-6 lg:justify-center px-8 font-bold text-xl py-3'
